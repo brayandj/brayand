@@ -10,7 +10,7 @@ __Generales:__
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
+
 
 <br />
 ---
