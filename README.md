@@ -1,6 +1,4 @@
 ## Soy estudiante, y desarrollador de Software
-
-- Estos son algunos de mis lenguajes de programación:
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
 
 ### Lenguajes y Herramientas que utilizo:
