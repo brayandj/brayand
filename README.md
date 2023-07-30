@@ -18,4 +18,4 @@ __Diseño:__
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brayandj&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brayandj&show_icons=true&theme=cobalt)
