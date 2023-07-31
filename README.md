@@ -31,7 +31,7 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayandj&show_icons=true&theme=gruvbox" alt="brayandj" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayandj&show_icons=true&theme=gruvbox" alt="brayandj" />
+
 </p>
 
 
