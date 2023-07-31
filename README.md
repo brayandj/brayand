@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayandj&label=Profile%20views&color=0e75b6&style=flat" alt="brayandj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayandj" alt="brayandj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayandj&show_icons=true&theme=gruvbox" alt="brayandj" /></a> </p>
 
 - 🔭 I’m currently working on **a java project**
 
