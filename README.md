@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Brayan Díaz</h1>
 <h3 align="center">A student and software developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayandj&label=Profile%20views&color=0e75b6&style=flat" alt="brayandj" /> </p>
