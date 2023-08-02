@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **a java projects**
 
-- 💬 Ask me about **VBA, JAVA**
+- 💬 Ask me about **VBA, JAVA, GIT**
 
 - 📫 How to reach me **bryandjw6@gmail.com**
 
