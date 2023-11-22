@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a java project**
 
-- 🌱 I’m currently learning **JavaFX 17, Java Maven, PureMvc, HTML5, CSS3, JS AJAX PHP**
+- 🌱 I’m currently learning **JavaFX 17, Java Maven, PureMVC, HTML5, CSS3, JS AJAX PHP**
 
 - 👯 I’m looking to collaborate on **a java projects**
 
